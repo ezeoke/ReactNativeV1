@@ -9,6 +9,7 @@ const Flex = () => {
       <View style={{ flex: 2, backgroundColor: "blue" }} />
       <View style={{ flex: 3, backgroundColor: "purple" }} />
       <View style={{ flex: 4, backgroundColor: "pink" }} />
+      <View />
     </View>
   );
 };
